@@ -1,2 +1,2 @@
 # FI
-The minimal generating sets (fundamental invariants) of invariant rings of permutation groups for molecular systems.
+The minimal generating sets (fundamental invariants) of invariant rings of symmetric groups for molecular systems.
