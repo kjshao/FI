@@ -1,2 +1,2 @@
-## FI ![](https://github.com/kjshao/FI/icon_fi.png)
+## FI ![](https://github.com/kjshao/FI/raw/master/icon_fi.png)
 The minimal generating sets (fundamental invariants) of invariant rings of symmetric groups for molecular systems.
